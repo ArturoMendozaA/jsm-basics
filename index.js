@@ -20,3 +20,23 @@ console.log('Hello, World');
  
  let person = {firstName: "Cucamonga", lastName:"harnandez", age: 30}
  console.log(person)
+ //object
+ let parson = {
+    name:'chanch',
+    lastName:'Obscuro'
+ }
+ console.log(parson)
+ parson['name'] = 'Chancho'
+ parson['lastName'] = 'Dark'
+ console.log('Bracket notation')
+console.log(parson)
+console.log('dot notation')
+parson.name = 'james'
+parson.lastName = 'Camaronsote'
+console.log(parson)
+
+let listOfSomething = ['uno', 2, 3, 'cuatro']
+console.log(listOfSomething)
+console.log('array example')
+listOfSomething[4] = 'pancake'
+console.log(listOfSomething)
