@@ -40,3 +40,4 @@ console.log(listOfSomething)
 console.log('array example')
 listOfSomething[4] = 'pancake'
 console.log(listOfSomething)
+ 
